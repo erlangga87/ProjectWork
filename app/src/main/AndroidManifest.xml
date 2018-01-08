@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.sch.smktelkom_mlg.privateassignment.xirpl320.loginrole">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-feature android:name="android.hardware.camera"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon2"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ViewDatabase" />
+        <activity android:name=".Approver" />
+        <activity android:name=".Edit" />
+        <activity android:name=".Search" />
+        <activity android:name=".DetailSearch" />
+        <activity android:name=".ImageListActivityEdit" />
+        <activity android:name=".Search2" />
+        <activity android:name=".Search3" />
+        <activity android:name=".Approver2" />
+        <activity android:name=".DetailApprove" />
+        <activity android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".WelcomeActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

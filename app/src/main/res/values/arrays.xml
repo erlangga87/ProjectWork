@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="List">
+    <item>1.Tampak Lokasi</item>
+    <item>2.Pembersihan Lokasi</item>
+    <item>3.Bouwplank</item>
+    <item>4.Besi KS On Site</item>
+    <item>5.Pengeboran Pondasi Bor Pile Tower</item>
+    <item>6.Pabrikasi Besi Pondasi Bor Pile Tower</item>
+    <item>7.Rebaring Bor Pile Pondasi Tower</item>
+    <item>8.Jarak dan Ikatan Pembesian Bor Pile Tower</item>
+    <item>9.Material Semen Pengecoran Pondasi Bor Pile Tower</item>
+    <item>10.Material Pasir, Split dan Air Pengecoran Pondasi Bor Pile Tower</item>
+    <item>11.Alat-alat Pengecoran Pondasi Bor Pile Tower</item>
+    <item>12.Slump Test Pondasi Bor Pile Tower</item>
+    <item>13.Sample Kubus/Silinder Beton Pondasi Bor Pile Tower</item>
+    <item>14.Start Pengecoran Pondasi Bor Pile</item>
+    <item>15.</item>
+    <item>16.</item>
+    <item>17.</item>
+    <item>18.</item>
+    <item>19.</item>
+    <item>20.</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>
+</resources>

@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "168704297574",
+    "firebase_url": "https://daftar-a20bf.firebaseio.com",
+    "project_id": "daftar-a20bf",
+    "storage_bucket": "daftar-a20bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168704297574:android:c2ea36ec786e4c8a",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.privateassignment.xirpl320.daftar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168704297574-bkfvaj1jjk7ctaa93d1rkck5emu50khk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sch.smktelkom_mlg.privateassignment.xirpl320.daftar",
+            "certificate_hash": "3571665ce0355eee0de7cc887f6ad6db2e3d48a2"
+          }
+        },
+        {
+          "client_id": "168704297574-u825j4gjmb15l7h8ebdljjk0h2h7pdnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADUNW4HQ1kysxuEh3rczv9CWrTGu3P1JQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168704297574-u825j4gjmb15l7h8ebdljjk0h2h7pdnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168704297574:android:9c15f8b2a59da4b4",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.privateassignment.xirpl320.inputdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168704297574-bdi911b072f46s2fd663j4pl598lur2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sch.smktelkom_mlg.privateassignment.xirpl320.inputdata",
+            "certificate_hash": "3571665ce0355eee0de7cc887f6ad6db2e3d48a2"
+          }
+        },
+        {
+          "client_id": "168704297574-u825j4gjmb15l7h8ebdljjk0h2h7pdnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADUNW4HQ1kysxuEh3rczv9CWrTGu3P1JQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168704297574-u825j4gjmb15l7h8ebdljjk0h2h7pdnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168704297574:android:3f1662a1f74955f1",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.privateassignment.xirpl320.search2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168704297574-vthsll7mgb5i71odso5s6mf87tst6our.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sch.smktelkom_mlg.privateassignment.xirpl320.search2",
+            "certificate_hash": "3571665ce0355eee0de7cc887f6ad6db2e3d48a2"
+          }
+        },
+        {
+          "client_id": "168704297574-u825j4gjmb15l7h8ebdljjk0h2h7pdnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADUNW4HQ1kysxuEh3rczv9CWrTGu3P1JQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168704297574-u825j4gjmb15l7h8ebdljjk0h2h7pdnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168704297574:android:8e8958fadf328f6a",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.privateassignment.xirpl320.search3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168704297574-3es9girdfmlijcj1h4v8uelop6hqgjcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sch.smktelkom_mlg.privateassignment.xirpl320.search3",
+            "certificate_hash": "3571665ce0355eee0de7cc887f6ad6db2e3d48a2"
+          }
+        },
+        {
+          "client_id": "168704297574-u825j4gjmb15l7h8ebdljjk0h2h7pdnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADUNW4HQ1kysxuEh3rczv9CWrTGu3P1JQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168704297574-u825j4gjmb15l7h8ebdljjk0h2h7pdnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168704297574:android:7d24856109af8ee1",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.privateassignment.xirpl320.loginrole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168704297574-p9p7ql64ano2qfffoknotj7e1a1kf1hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sch.smktelkom_mlg.privateassignment.xirpl320.loginrole",
+            "certificate_hash": "3571665ce0355eee0de7cc887f6ad6db2e3d48a2"
+          }
+        },
+        {
+          "client_id": "168704297574-u825j4gjmb15l7h8ebdljjk0h2h7pdnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADUNW4HQ1kysxuEh3rczv9CWrTGu3P1JQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168704297574-u825j4gjmb15l7h8ebdljjk0h2h7pdnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

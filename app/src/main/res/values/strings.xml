@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FORELA</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Selamat Datang!</string>
+    <string name="slide_1_desc">Aplikasi ini dibuat untuk membantu.....</string>
+
+    <string name="slide_2_title">Login</string>
+    <string name="slide_2_desc">Untuk dapat login ke aplikasi anda harus memiliki akun, jika belum memiliki akun anda bisa menghubungi pihak admin</string>
+
+    <string name="slide_3_title">Edit</string>
+    <string name="slide_3_desc">Edit adalah user yang dapat melakukan upload dan melihat foto</string>
+
+    <string name="slide_4_title">Viewer</string>
+    <string name="slide_4_desc">Viewer adalah user yang hanya dapat melihat foto</string>
+
+    <string name="slide_5_title">Approver</string>
+    <string name="slide_5_desc">Approver adalah user yang dapat menyetujui atau menolak foto yang di upload oleh user Edit</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/background_login"
+    tools:context="id.sch.smktelkom_mlg.privateassignment.xirpl320.loginrole.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        >
+        <ImageView
+            android:layout_width="250px"
+            android:layout_height="250px"
+            android:id="@+id/gbLogo"
+            android:src="@drawable/icon2"
+            android:layout_marginLeft="200px"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/gbLogo"
+            android:text="User Login"
+            android:id="@+id/tvLogin"
+            android:textAlignment="center"
+            android:layout_marginBottom="175px"/>
+
+
+        <EditText
+            android:layout_margin="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:layout_below="@+id/tvLogin"
+            android:hint="Masukkan Email"
+            android:textColor="#212121"
+            android:id="@+id/email"
+            android:drawableLeft="@drawable/ic_email2"/>
+        <EditText
+            android:layout_margin="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/email"
+            android:inputType="textPassword"
+            android:hint="Masukkan Password"
+            android:id="@+id/password"
+            android:drawableLeft="@drawable/ic_passoword"
+            android:textColor="#212121"/>
+        <Button
+            android:layout_margin="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/password"
+            android:id="@+id/email_sign_in_button"
+            android:background="#F5F5F5"
+            android:textColorHint="#212121"
+            android:hint="Masuk"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Belum memiliki akun ? Silahkan menghubungi admin"
+            android:id="@+id/tvDaftar"
+            android:textAlignment="center"/>
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>
